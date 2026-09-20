@@ -1,7 +1,13 @@
 {
-    "version":  "1.0.0",
+    "version":  "1.0.2",
     "board":  "wt32-eth01",
     "url":  "https://raw.githubusercontent.com/barba-productions/vessel-motion-OTA/main/firmware.bin",
-    "size":  1195008,
-    "md5":  "07024607b02c5cddaad6bf85e7b9a67d"
+    "size":  1207280,
+    "md5":  "24d9ea8e03b221b233b27747aa703f7a",
+    "filesystem":  {
+                       "version":  "1.0.2",
+                       "url":  "https://raw.githubusercontent.com/barba-productions/vessel-motion-OTA/main/littlefs.bin",
+                       "size":  1441792,
+                       "md5":  "b3149d505e01fc14a0aee5a92f13e675"
+                   }
 }
